@@ -1,0 +1,16 @@
+Cores Primárias: Amarelo, Vermelho, Azul;
+Cores Secundárias: Laranja, Violeta, Verde;
+Cores Terciárias: São misturas de cores primárias e Secundárias;
+Cores Frias: Principalmente Roxo, Azul e Verde;
+Cores Quentes: Principalmente Amarelo, Laranja e Vermelho;
+Cores Complementares: Cores opostas entre si no círculo cromático;
+Cores Análogas: 3 cores próximas entre si no círculo cromático;
+Cores Análogas e Complementares: Junção de 3 cores analogas com 1 complementar;
+Cores Análogas Relacionadas: 2 cores análogas com 1 cor um pouco mais distante;
+Cores Intercaladas: Cores pouco distantes entre si;
+Cores Triádicas: 3 cores intercaladas com um intervalo de 3 cores;
+Cores em Quadrado: 4 cores intercaladas com um intervalo de 2 cores;
+Cores Tetrádicas: 2 cores complementares intercaladas;
+Cores Monocromáticas: Apenas 1 cor base, trabalhada apenas na saturação e luminosidade;
+
+Obs: Para paleta de cores é recomendado o uso de somente 3 à 5 cores.

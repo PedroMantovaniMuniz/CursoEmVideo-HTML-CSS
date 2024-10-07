@@ -1,0 +1,8 @@
+Domínio = Nome que identifica o site. Ele é único para cada site. Paga uma taxa anual para manter o domínio. Escolha de Top Levels Domains(TLD).
+Hospedagem = Local onde os arquivos do site estaram guardados. Paga mensalmente. Escolha de espaços, memória e recursos.
+
+URL = Uniform Resource Locator(Usado somente para localizar o site)
+WWW = Sub-Domínio
+TLD = Top Levels Domain
+GTLD = Generic Top Levels Domain(.com = Instituições Comerciais; .edu = Instituições Educacionais; .gov = Instituições Governamentais; .store = Lojas)
+CCTLD = Country Code Top Levels Domain(Código de cada país)

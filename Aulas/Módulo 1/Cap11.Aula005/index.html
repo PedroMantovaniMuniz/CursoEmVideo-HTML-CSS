@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimídias PT3</title>
+</head>
+<body>
+    <h1>Utilizando vídeos de hospedagem local</h1>
+    <hr>
+    <h2>Tag &lt;video&gt;</h2>
+    <p>Para colocarmos reprodução de vídeo no site, marcamos a tag video.</p>
+    <h3>Parâmetros da tag:</h3>
+    <h4>src=""</h4>
+    <p>Encontra o arquivo do vídeo a ser reproduzido.</p>
+    <h4>controls</h4>
+    <p>Exibe os controles de reprodução do vídeo.</p>
+    <h4>preload=""</h4>
+    <p>Defino como será o pré-carregamento. Aceita os valores: auto, metadata, none.</p>
+    <h4>loop</h4>
+    <p>Define se o vídeo deverá reiniciar após o término da reprodução.</p>
+    <h4>autoplay</h4>
+    <p>Define se o arquivo será reproduzido automaticamente</p>
+    <h3>Tag &lt;source&gt;</h3>
+    <p>Usada dentro da tag video para definir o arquivo de vídeo, e seu tipo.</p>
+    <h4>Parâmetros da tag:</h4>
+    <h5>src=""</h5>
+    <p>Encontra o arquivo do vídeo a ser reproduzido.</p>
+    <h5>type=""</h5>
+    <p>Indica qual o formato do arquivo do vídeo.</p>
+    <video poster="imagem/poster" width="500" controls>
+        <source src="videos/past_lives.mp4" type="video/mp4">
+        <!-- <source src="videos/past_lives.m4v" type="video/m4v">
+        <source src="videos/past_lives.webm" type="video/webm">
+        <source src="videos/past_lives.ogv" type="video/ogg"> -->
+        <p>Infelizmente o navegador não tem suporte a vídeo.</p>
+    </video>
+</body>
+</html>
