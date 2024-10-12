@@ -9,6 +9,6 @@ Este repositório contém meu progresso nos estudos de **HTML** e **CSS**. Nele,
 
 Este repositório não tem como objetivo distribuir qualquer conteúdo de forma irregular e indevida.
 
-O curso e todos os materiais presentes neste repositório foram desenvolvidos e distribuídos pela plataforma <a href="https://www.cursoemvideo.com" target="_blank"><strong>Curso em Vídeo</strong></a>.
+O curso e todos os materiais presentes neste repositório foram desenvolvidos e distribuídos pela plataforma <a href="https://www.cursoemvideo.com" target=_blank><strong>Curso em Vídeo</strong></a>.
 
 Todos os direitos são reservados à plataforma e seus colaboradores.
