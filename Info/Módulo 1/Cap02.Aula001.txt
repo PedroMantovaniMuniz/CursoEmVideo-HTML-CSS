@@ -1,6 +1,6 @@
 Tudo oque um computador faz, são feitos por sinais, representados por 0 e 1, ou ondas quadradas, onde 0 é a ausência de sinal e 1 a presença. Esses sinais são chamados de Binary Digit(BIT).
 São necessários no mínimo 8 bits para que qualquer informação exista, esses 8 bits são chamados de Byte.(Código Multibyte UTF-8)
-Computadores trabaçham com a base 2.
+Computadores trabalham com a base 2.
 
 MÚLTIPLOS A PARTIR DO BYTE:
 
