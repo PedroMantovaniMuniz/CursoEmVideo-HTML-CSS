@@ -1,0 +1,23 @@
+Tudo oque um computador faz, são feitos por sinais, representados por 0 e 1, ou ondas quadradas, onde 0 é a ausência de sinal e 1 a presença. Esses sinais são chamados de Binary Digit(BIT).
+São necessários no mínimo 8 bits para que qualquer informação exista, esses 8 bits são chamados de Byte.(Código Multibyte UTF-8)
+Computadores trabalham com a base 2.
+
+MÚLTIPLOS A PARTIR DO BYTE:
+
+1024 Bytes = 1 Kilobyte(KB)
+1024 KB = 1 Megabyte(MB)
+1024 MB = 1 Gigabyte(GB)
+1024 GB = 1 Terabyte(TB)
+1024 TB = 1 Petabyte(PB)
+1024 PB = 1 Exabyte(EB)
+1024 EB = 1 Zetabyte(ZB)
+1024 ZB = 1 Yotabyte(YB)
+
+?B = ?bytes(Usado para medir armazenamento)
+?b = ?bits(Usado para medir transmissão)
+
+CONEXÃO:
+
+O processo de conversão das ondas quadradas em ondas cenoidais é chamado de modulação, e o inverso é chamado de demodulação.
+O aparelho que faz essas conversões é chamado de MODEM(MOdulação/DEModulação).
+O sistema que nomeia os IP's é o Domain Name Sistem(DNS).

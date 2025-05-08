@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimídias</title>
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <hr>
+    <h2>Tag &lt;picture&gt;</h2>
+    <p>Para exibirmos imagens dinâmicas usamos a tag picture. Dentro da tag picture, marcamos a tag img com a imagem de maior tamanho.</p>
+    <h3>Tag &lt;source&gt;</h3>
+    <p>Usamos a tag source dentro da tag picture para definir as imagens alternativas.</p>
+    <h4>Parâmetros da tag</h4>
+    <h5>media=""</h5>
+    <p>Usado para definir a largura máxima em que a tela tem que estar para a imagem aparecer. Recebe o valor: (max-width: px). Deve ser colocado em ordem, sempre do menor para o maior.</p>
+    <h5>srcset=""</h5>
+    <p>Encontra o arquivo da imagem a ser exibida.</p>
+    <h5>type=""</h5>
+    <p>Indica qual o formato do arquivo da imagem.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/pequena.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/media.png" type="image/png">
+        <img src="imagens/grande.png" alt="Imagem grande">
+    </picture>
+</body>
+</html>

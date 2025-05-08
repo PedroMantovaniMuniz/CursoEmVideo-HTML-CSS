@@ -1,0 +1,4 @@
+Front-end é o desenvolvedor que vai trabalhar com ferramentas client-side, ou seja, do lado do cliente, fazendo a parte visual e interativa dos sites.
+Back-end é o desenvolvedor que vai trabalhar com ferramentas server-side, ou seja, do lado do servidor, fazendo a interação entre os arquivos e o servidor.
+Para o back-end, existem algumas linguagens como PHP, algumas versões do JavaScript, C#, Python, Ruby, Java, etc...
+Full-stack é aquele que tem domínio tanto do front e do back-end

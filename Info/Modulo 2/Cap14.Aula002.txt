@@ -1,0 +1,57 @@
+Itens Métricos de uma fonte:
+    O inicio do processo de criação de uma fonte se da pelo design da letra 'x'. Chamado de 'altura x', define a altura base de todas as letras minúsculas à partir do 'x';
+    Temos também a 'altura das maiúsculas', proporcional às minúsculas;
+    Para letras que tem algum vazamento, chamamos o mesmo de 'ascendente' quando para cima, e 'descendente' para baixo;
+    A altura total das letra é chamada de 'corpo';
+
+Itens Anatomicos de uma fonte:
+
+    Geométricos:
+
+        Serifa: Prolongamento em algumas extremidades das letras, ajuda na leitura flúida da palavra;
+
+        Haste:
+
+        Arco:
+
+        Filete:
+
+        Esporão: "Saltinho" na base de certas letras, para dar base;
+
+        Vértice:
+
+        Terminal:
+
+    Corporais:
+
+        Braço: Um prolongamento que sai de uma haste, apontado para cima;
+
+        Perna: Um prolongamento que sai de uma haste, apontado para baixo;
+
+        Pé: Final de uma haste;
+
+        Espinha: Curvaturas na letra;
+
+        Barriga: Junção de 2 arcos;
+
+        Olho: Parte fechada vazia da letra;
+
+        Orelha: Prolongamento horizontal na parte de cima;
+
+        Cauda: Prolongamento na descendente da letra;
+
+Cada letra é chamada 'glifo', e um conjunto de glifos se chama 'fonte';
+
+Família Tipográfica: Formas diferentes de uma mesma letra;
+
+Categorias:
+
+    Serifada: Com serifa;
+
+    Sans-Serif: Sem serifa, recomendada para textos grandes;
+
+    Monoespaçada: Espaçamento igual para todos os glifos, pode ser ou não serifada;
+
+    Handwriting: Simula a escrita a mão;
+
+    Display: Não se enquadra em nenhuma outra categoria;

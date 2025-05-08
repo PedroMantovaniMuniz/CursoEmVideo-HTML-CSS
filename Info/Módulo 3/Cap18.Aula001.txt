@@ -1,0 +1,2 @@
+Git e um software de versionamento de programas, arquivos, etc...(Repositorio local)
+GitHub faz backup de repositorios(Repositorio remoto)

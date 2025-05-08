@@ -1,0 +1,13 @@
+Os elementos em HTML são exibidos por caixas aninháveis.
+
+height = Altura da caixa
+width = Largura da caixa
+border = Parte externa da caixa
+padding = Espaçamento/preenchimento interno da caixa
+margin = Espaçamento/preenchimento externo da caixa
+outline = Contorno da caixa
+
+TIPOS DE CAIXA:
+
+box level = Quebra a linha, ocupando a largura total da tela
+inline level = Continua a linha, ocupando o tamanho necessário

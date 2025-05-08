@@ -1,0 +1,8 @@
+Internet: Guerra Fria(1949). Criação da ARPANET(1969), com 4 pontos de conexão entre computadores. Para resolver o problema de divergência entre as linguagens dos computadores, foi criado o protocolo Network Control Protocol(NCP) que tinha uma linguagem única.
+Em 1972 foi criado o protocolo Transfer Control Protocol(TCP), por Bob Kahn, para eliminar a parada da rede para transferir dados entre 2 computadores de cada vez. E para resolver as falhas causadas por problemas de identificação dos pontos de transferência, foi criado o protocolo Internetwork Protocol(IP), criado por Vint Cerf.
+Em 1977, a ARPANET se fragmentou em várias outras redes, como MILNET(Redes Militares), NSFNET(National Science Foundation), e diversas redes comerciais. E para todas elas se comunicarem, foi criada a Interconnect Networking, abreviada para Internetworking, e por fim simplificada para somente Internet.
+Para um servidor enviar alguma informação qualquer, solicitada por um cliente, é feita a fragmentação da informação em pacotes, para evitar o congestionamento da rede. Os pacotes são recebidos, interpretados e juntados novamente pelo cliente.(Link para entender melhor: https://youtube/TNQsmPf24go)
+Um dos primeiros protocolos da internet foi o GOPHER.
+Em 1993, Tim Berners-Lee criou o protocolo Hyper Text Transfer Protocol(HTTP), o Hyper Text Markup Language(HTML) e a World Wide Web(WWW).
+Para funcionar em conjunto, Marc Andreessen criou o primeiro navegador, o Mosaic.
+A Internet porta vários tipos de servidores, cada um com sua especialização, como transferência de arquivos(FTP), hiper textos simples(GOPHER), envio e recebimento de e-mails(SMTP,POP3, IMAP), hiper textos avançados(HTTP), entre outros.

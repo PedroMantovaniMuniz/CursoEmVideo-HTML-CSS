@@ -1,0 +1,22 @@
+HTML = HyperText Markup Language(Focada em conteúdo, como textos, imagens, vídeos, tabelas. etc...)
+CSS = Cascading Style Sheets(Focada em design, como cores, sombras, tamanhos, posicionamento, etc...)
+JS = JavaScript(Responsável pelas interações, como menus, animações, popups, validações, etc...)
+
+A HTML é feita por tags/marcações, que ficam sempre entre '<>'(colchete angular). Cada tag tem uma abertura e um fechamento. A tag de fechamento é sempre precedida de "/"
+As CSS são feitas por seletores e declarações, que ficam sempre entre '{}'. Cada declaração é constituida de uma propriedade seguida de um valor, terminada com ';' no final de cada declaração.
+
+ESTRUTURA BÁSICA DO HTML:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width,
+    initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Olá, Mundo!</h1>
+  </body>
+</html>

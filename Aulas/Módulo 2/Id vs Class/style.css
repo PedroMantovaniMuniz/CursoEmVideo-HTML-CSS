@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/*
+Hierarquia de Estilos:
+Classe > Id > Genérico
+*/
+
+body {
+    background-color: rgb(127, 255, 212);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(57, 109, 91);
+}
+
+h1#principal {
+    text-align: center;
+    color: white;
+}
+
+.basico {
+    color: rgb(82, 202, 45);
+}
+
+.intermediario {
+    color: rgb(202, 192, 45);
+}
+
+.avançado {
+    color: rgb(202, 45, 45);
+}
+
+.destaque {
+    background-color: rgba(157, 165, 42, 0.589);
+}
