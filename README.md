@@ -31,17 +31,27 @@ Este repositório foi criado para acompanhar meu aprendizado em desenvolvimento 
 
 ## 📂 Organização
 
-| Seção | Link | Description |
-|-------|------|-------------|
-| 📘 Aulas | [Aulas](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Aulas) | Códigos das videoaulas |
-| 🧩 Desafios | [Desafios](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Desafios) | Desafios para prática |
-| 📝 Anotações | [Anotações](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Info) | Resumos e observações |
+| Seção | Descrição |
+|-------|-----------|
+| 📘 [Aulas](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Aulas) | Códigos das videoaulas |
+| 🧩 [Desafios](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Desafios) | Desafios para prática |
+| 📝 [Anotações](https://github.com/PedroMantovaniMuniz/CursoEmVideo-HTML-CSS/tree/main/Info) | Resumos e observações |
+
+---
+
+## Desafios Práticos
+
+| Nome | Descrição |
+|------|-----------|
+| [Site Android](https://pedromantovanimuniz.github.io/CursoEmVideo-HTML-CSS/Desafios/010/) | Site com informações e curiosidades sobre o Android |
+| [Cordel Moderno](https://pedromantovanimuniz.github.io/CursoEmVideo-HTML-CSS/Desafios/012/) | Projeto de cordel com efeito Parallax |
 
 ---
 
 ## ⚠️ Aviso Legal
 
 > Este repositório não distribui conteúdo irregular.
+> 
 > 📚 Todos os direitos pertencem à plataforma <strong><a href="https://www.cursoemvideo.com" target="_blank">Curso em Vídeo</a></strong> e seus autores.
 
 ---
