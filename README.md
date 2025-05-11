@@ -58,4 +58,4 @@ Este repositório foi criado para acompanhar meu aprendizado em desenvolvimento 
 
 ## 🤝 Agradecimentos
 
-Agradecimentos ao professor **Gustavo Guanabara** e à equipe do Curso em Vídeo por oferecerem ensino gratuito de qualidade.
+Agradecimentos ao professor **Gustavo Guanabara** e à equipe do <strong><a href="https://www.cursoemvideo.com" target="_blank">Curso em Vídeo</a></strong> por oferecerem ensino gratuito de qualidade.
