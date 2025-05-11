@@ -1,5 +1,3 @@
-Ótimo! Abaixo está o **README bilíngue (Português 🇧🇷 / English 🇺🇸)** com um visual moderno e claro, ideal para o GitHub. Ele detecta idioma naturalmente conforme o leitor rola, mantendo a seção em destaque para quem lê em português ou inglês.
-
 ---
 
 <h1 align="center">🌐 HTML & CSS — Meu Diário de Aprendizado</h1>
