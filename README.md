@@ -1,5 +1,3 @@
----
-
 <h1 align="center">🌐 HTML & CSS — Meu Diário de Aprendizado</h1>
 
 <p align="center">
@@ -51,4 +49,3 @@ Este repositório foi criado para acompanhar meu aprendizado em desenvolvimento 
 ## 🤝 Agradecimentos
 
 Agradecimentos ao professor **Gustavo Guanabara** e à equipe do Curso em Vídeo por oferecerem ensino gratuito de qualidade.
----
