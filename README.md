@@ -45,6 +45,7 @@ Este repositório foi criado para acompanhar meu aprendizado em desenvolvimento 
 |------|-----------|
 | [Site Android](https://pedromantovanimuniz.github.io/CursoEmVideo-HTML-CSS/Desafios/010/) | Site com informações e curiosidades sobre o Android |
 | [Cordel Moderno](https://pedromantovanimuniz.github.io/CursoEmVideo-HTML-CSS/Desafios/012/) | Projeto de cordel com efeito Parallax |
+| [Tela de Login](https://pedromantovanimuniz.github.io/CursoEmVideo-HTML-CSS/Desafios/016/) | Página de login com formulário e responsividade total |
 
 ---
 
