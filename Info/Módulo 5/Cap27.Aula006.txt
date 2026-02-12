@@ -1,0 +1,2 @@
+Propriedades do Flexbox:
+    1. align-content: stretch(Padrão) | center | flex-start | flex-end | space-around | space-between | space-evenly; (Alinhamento do conteúdo quando há quebra de linha/empacotamento)
