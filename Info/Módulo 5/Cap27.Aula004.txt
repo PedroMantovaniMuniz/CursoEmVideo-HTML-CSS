@@ -1,0 +1,3 @@
+Propriedades do Flexbox:
+    1. justify-content: flex-start(Padrão) | flex-end | center | space-between | space-around | space-evenly; (Alinhamento no eixo principal)
+    2. align-items: flex-start | flex-end | center | stretch(Padrão); (Alinhamento no eixo transversal)

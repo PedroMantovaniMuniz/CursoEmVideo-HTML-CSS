@@ -1,7 +1,7 @@
 Propriedades do Flexbox:
 
     1. display: flex; (define o elemento como um container flexível)
-    2. flex-direction: row | row-reverse | column | column-reverse; (define a direção dos itens dentro do container)
+    2. flex-direction: row(Padrão) | row-reverse | column | column-reverse; (define a direção dos itens dentro do container)
 
 Eixos do Flexbox:
 
