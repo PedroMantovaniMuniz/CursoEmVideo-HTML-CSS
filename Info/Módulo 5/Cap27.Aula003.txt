@@ -1,0 +1,4 @@
+Propriedades do flexbox:
+
+    1. flex-wrap: nowrap | wrap | wrap-reverse; (define se os itens devem ou não quebrar a linha dentro do container flexível. A quebra ocorre sempre no sentido do cross axis)
+    2. flex-flow: <flex-direction> || <flex-wrap>; (propriedade abreviada/shorthand que combina flex-direction e flex-wrap)
