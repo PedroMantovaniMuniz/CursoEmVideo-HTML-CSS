@@ -1,0 +1,9 @@
+Propriedades do Flexbox:
+
+    1. display: flex; (define o elemento como um container flexível)
+    2. flex-direction: row | row-reverse | column | column-reverse; (define a direção dos itens dentro do container)
+
+Eixos do Flexbox:
+
+    1. Eixo principal (main axis): é a direção definida pela propriedade flex-direction. Possui dois pontos(main-start e main-end), disponstos dependendo do valor do flex-direction.
+    2. Eixo transversal (cross axis): é perpendicular ao eixo principal. Também possui dois pontos(cross-start e cross-end), dispostos dependendo do valor do flex-direction.
