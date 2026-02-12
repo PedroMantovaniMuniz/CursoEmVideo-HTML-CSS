@@ -1,0 +1,2 @@
+Propriedades de FlexItems:
+    1. flex-basis: auto | <tamanho>; (Define a base de flexão para um item flexível, que é a sua largura inicial antes de ser distribuído pelo contêiner flexível. Funciona de acordo com o main-axis)
