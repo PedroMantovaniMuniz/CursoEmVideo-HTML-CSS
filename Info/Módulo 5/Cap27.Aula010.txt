@@ -1,0 +1,2 @@
+Propriedades de FlexItems:
+    1. flex: <flex-grow> <flex-shrink> <flex-basis> | initial | none | auto; (Shorthand para as três propriedades)
