@@ -1,0 +1,3 @@
+Propriedades de FlexItems:
+    1.flex-grow: 0 | <número>; (Define a capacidade de crescimento de um item flexível. Se definido como 0, o item não crescerá além do seu tamanho inicial. Se definido como um número positivo, o item crescerá proporcionalmente ao valor em relação aos outros itens flexíveis que também têm a propriedade flex-grow definida.)
+    2.flex-shrink: 1 | <número>; (Define a capacidade de encolhimento de um item flexível. Se definido como 1, o item pode encolher para caber no contêiner flexível. Se definido como um número positivo, o item encolherá proporcionalmente ao valor em relação aos outros itens flexíveis que também têm a propriedade flex-shrink definida.)
