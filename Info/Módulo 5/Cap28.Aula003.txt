@@ -1,0 +1,5 @@
+Propriedades do GridLayout(containers):
+    1. display: grid; (Define o elemento como um container em grade)
+    2. grid-template-columns: auto(padrão) | <tamanho>; (Define o padrão de colunas, suas quantidades e tamanhos)
+    3. grid-template-rows: auto(padrão) | <tamanho>; (Define o padrão de linhas, suas quantidades e tamanhos)
+    4. grid-gap: auto(padrão) | <tamanho>; (Espaçamento entre Grid Items)
