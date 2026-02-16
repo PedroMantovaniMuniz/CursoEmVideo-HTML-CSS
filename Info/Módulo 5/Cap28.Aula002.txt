@@ -1,0 +1,9 @@
+Anatomia de Grids:
+    Grid Container - O elemento principal;
+    Grid Item - Interceção de linhas;
+    Grid Track - Grid Items em sequência/alinhados onde:
+        Row Track - Grid Items alinhados na horizontal;
+        Column Track - Grid Items alinhados na vertical;
+    Grid Lines - Linhas entre os Grid Items, enumeradas positivamente, quando da esquerda para a direita, e negativamente quando da direita para esquerda, para as verticais. Também positivamente, quando de cima para baixo, e negativamente quando de baixo para cima, para as horizontais;
+    Grid Area - Vários Grid Items agrupados;
+    Grid Gap - Espaçamento entre Grid Items;
