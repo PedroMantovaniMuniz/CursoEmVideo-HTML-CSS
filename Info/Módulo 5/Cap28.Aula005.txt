@@ -1,0 +1,5 @@
+Propriedades do GridLayout(containers):
+    1. align-items: stretch(padrão) | start | center | end; (Alinhamento de Grid Items na vertical)
+    2. justify-items: stretch(padrão) | start | center | end; (Alinhamento de Grid Items na horizontal)
+    3. align-content: stretch(padrão) | center | end | start | space-between | space-evenly | space-around; (Alinhamento de todo o conteúdo do Grid na vertical)
+    4. justify-content: stretch(padrão) | center | end | start | space-between | space-evenly | space-around; (Alinhamento de todo o conteúdo do Grid na horizontal)
