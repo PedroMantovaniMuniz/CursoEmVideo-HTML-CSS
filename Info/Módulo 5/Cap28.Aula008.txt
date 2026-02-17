@@ -1,0 +1,3 @@
+A função repeat(<repetições>, <valor>) é usada nas propriedades de grid-template para repertir um valor por um determinado número de vezes, evitando código repetitivo;
+
+A unidade de medida "fr"(fraction) é usada no Grid Layout para determinar a divisão do layout em frações, tanto nas colunas, quanto nas linhas. De forma resumida, é uma relativa para definir o tamanho dos Grid Items;
