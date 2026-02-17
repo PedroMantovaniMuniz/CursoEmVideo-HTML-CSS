@@ -1,0 +1,6 @@
+Propriedades do GridLayout(containers):
+    1. grid-auto-row: <tamanho>; (Define o tamanho de linhas adicionais)
+    2. grid-auto-column: <tamanho>; (Define o tamanho de colunas adicionais)
+    3. place-items: <align-items> <justify-items>; (Shorthand para as propriedades de posicionamento de itens)
+    4. place-content: <align-content> <justify-content>; (Shorthand para as propriedades de posicionamento de conteúdo)
+    5. grid-template: <grid-template-rows> / <grid-template-columns>; (Shorthand para as propriedades de definição da grade)
