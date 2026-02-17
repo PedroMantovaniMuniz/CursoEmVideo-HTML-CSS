@@ -1,0 +1,5 @@
+Propriedades do GridLayout(items):
+    1. grid-row-start: <valor>; (Define a Grid Line horizontal de início de uma caixa/área)
+    2. grid-row-end: <valor>; (Define a Grid Line horizontal de fim de uma caixa/área)
+    3. grid-column-start: <valor>; (Define a Grid Line vertical de início de uma caixa/área)
+    4. grid-column-end: <valor>; (Define a Grid Line vertical de fim de uma caixa/área)
