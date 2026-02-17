@@ -1,0 +1,6 @@
+O valor "span" é usado nas propriedades de definição do fim de linhas e colunas de uma Grid Area, com a o intuito de marcar quantas Grid Lines a área irá se expandir em seus respectivos eixos, ao invés de especificar uma Grid Line;
+
+Propriedades do GridLayout(items):
+    1. grid-row: <grid-row-start> / <grid-row-end>; (Shorthand para definição das linhas de início e fim de uma Grid Area)
+    2. grid-column: <grid-column-start> / <grid-column-end>; (Shorthand para definição das colunas de início e fim de uma Grid Area)
+    3. grid-area: <grid-row-start> / <grid-column-start> / <grid-row-end> / <grid-column-end>; (Shorthand para definição das colunas de início e fim de uma Grid Area em apenas uma propriedade)
