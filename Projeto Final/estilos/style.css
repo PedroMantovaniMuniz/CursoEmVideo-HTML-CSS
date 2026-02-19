@@ -1,9 +1,13 @@
-/* 
-  Variáveis para cores:
-  --fundo-principal
-  --texto
-  --texto-inverso
-  --destaque
-  --destaque-inverso
-  --fundo-card
+/*
+    Variáveis para cores:
+    --fundo-principal
+    --texto-inverso
+    --destaque
+    --destaque-inverso
+    --fundo-card
 */
+
+body {
+    background-color: lightgray;
+    color: blue;
+}
