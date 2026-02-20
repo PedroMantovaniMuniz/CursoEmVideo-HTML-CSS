@@ -130,3 +130,39 @@ div#social a {
 div#social a:hover {
     color: var(--inverted-contrast);
 }
+
+section#details {
+    grid-column: 2;
+}
+
+article {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+
+    background-color: var(--card-background);
+}
+
+article h2 {
+    margin-bottom: 10px;
+
+    color: var(--contrast);
+}
+
+.video-container {
+    width: 100%;
+    margin: auto;
+    aspect-ratio: 16/9;
+
+    position: relative;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
