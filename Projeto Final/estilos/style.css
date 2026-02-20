@@ -69,3 +69,64 @@ body {
 
     color: var(--text);
 }
+
+main {
+    margin-top: 20px;
+
+    display: grid;
+    grid-template: auto / auto 90vw auto;
+    gap: 20px;
+}
+
+section#card {
+    padding: 20px;
+    border-radius: 8px;
+
+    grid-column: 2;
+
+    background-color: var(--card-background);
+}
+
+section#card img#photo {
+    display: block;
+    width: 200px;
+    margin: auto;
+    border-radius: 50%;
+    border: 5px solid var(--card-background);
+    outline: 5px solid var(--contrast);
+
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+section#card h1 {
+    margin: 15px 0;
+
+    font-size: 1.5em;
+
+    text-align: left;
+
+    color: var(--contrast);
+}
+
+div#social {
+    margin-top: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+    font-size: 1.6em;
+}
+
+div#social a {
+    color: var(--contrast);
+
+    transition: color .5s;
+}
+
+div#social a:hover {
+    color: var(--inverted-contrast);
+}
