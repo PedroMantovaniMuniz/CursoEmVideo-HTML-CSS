@@ -304,6 +304,23 @@ footer a:hover {
 }
 
 @media (min-width: 768px) {
+    main {
+        grid-template-columns: auto 300px 1fr auto;
+    }
+
+    section#card {
+        height: fit-content;
+
+        grid-column: 2 / 3;
+
+        position: sticky;
+        top: 65px;
+    }
+
+    section#details {
+        grid-column: 3 / 4;
+    }
+
     #skill-container {
         grid-template: auto / 1fr 1fr;
     }
