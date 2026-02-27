@@ -23,6 +23,27 @@
     padding: 0;
 }
 
+body {
+    background-color: var(--main-background);
+
+    line-height: 1.5em;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    color: var(--text);
+
+    transition: background-color .5s, color .5s;
+}
+
+body.escuro {
+    --main-background: #222222;
+    --text: #e0e0e0;
+    --inverted-text: #333333;
+    --contrast: #ff5522;
+    --inverted-contrast: #a73917;
+    --card-background: #444444;
+}
+
 header {
     padding: 10px;
 
@@ -64,15 +85,6 @@ nav#menu a:hover {
     background-color: var(--inverted-contrast);
 
     color: var(--contrast);
-}
-
-body {
-    background-color: var(--main-background);
-
-    line-height: 1.5em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-    color: var(--text);
 }
 
 main {
